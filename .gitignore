@@ -1,0 +1,17 @@
+*.agdai
+*.agda~
+*.#*
+*#*#
+*.vo*
+*.glob
+*.aux
+*.synctex.gz
+*.log
+*.dvi
+*.cache
+*.v~
+Makefile.coq*
+Makefile.conf
+Makefile.d
+_CoqProject
+.Makefile.coq.d
